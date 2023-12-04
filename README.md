@@ -5,7 +5,7 @@ Perkenalkan nama saya **Feizal Reza**.
 
 - 🌱 I’m currently learning about Front End & React Js
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: feizal.reza@students.amikom.ac.id
+- 📫 How to reach me: feizalreza29@gmail.com
 - ⚡ Fun fact: Father of a daughter
 
 ### Tech Stack
